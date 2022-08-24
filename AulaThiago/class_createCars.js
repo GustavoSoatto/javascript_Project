@@ -16,5 +16,5 @@ cars.push(fiatUno);
 cars.push(hondaCivic);
 
 cars.forEach(carro => {
-    console.log(`O ${carro.carBrand} selecionado possui a cor ${carro.color} e é do ano ${carro.year}`);
+  console.log(`O ${carro.carBrand} selecionado possui a cor ${carro.color} e é do ano ${carro.year}`);
 });
